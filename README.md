@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Introduction
-WorldWise is a sophisticated web application built using modern React standards. It leverages the power of React hooks, React Leaflet for interactive maps, and json-server for handling backend operations, making it an excellent example of a single-page application (SPA).
+WorldWise is a concept frontend application designed to help users track the places they have visited and when they visited them. With the help of an interactive map, intuitive forms, and a user-friendly interface, WorldWise provides an engaging way to visualize travel history.
 
 ## Features
 - Fast and optimized build with Vite
